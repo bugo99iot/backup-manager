@@ -6,22 +6,17 @@ logs/
 log/
 
 *.log
-*.Rhistory
 .hypothesis
 .pytest_cache
 *.pytest_cache
-*.sqlite3
 
 .DS_Store
 
 venv/
 
-src/staticfiles/
-src/static/
 
 .pytest_cache/
 .hypothesis/
 .mypy_cache/
 
 .idea/
-*.pkl
